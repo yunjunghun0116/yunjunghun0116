@@ -1,4 +1,4 @@
-### Hi there 👋
+### JunghunYun's Github Profile 👋
 
 <!--
 **yunjunghun0116/yunjunghun0116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
