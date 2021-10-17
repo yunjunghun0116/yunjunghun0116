@@ -11,5 +11,7 @@ Hello, I am a Flutter developer~
 ![mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yunjunghun0116)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjunghun0116)
+
 
 
