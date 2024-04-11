@@ -34,7 +34,7 @@
 #### https://github.com/yunjunghun0116/algorithm
 
 ### Notion
-#### https://burnt-geography-612.notion.site/4c07216e12394f28848a5a3d699182fb?pvs=4
+#### https://junghun2.notion.site/4c07216e12394f28848a5a3d699182fb?pvs=4
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjunghun0116&layout=compact)
 
