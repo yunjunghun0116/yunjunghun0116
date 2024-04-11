@@ -6,6 +6,9 @@
 - 충남대학교 컴퓨터공학과 (2018/02 ~ 2025/02)
 - 카카오테크캠퍼스 (2024/04 ~ 2024/11)
 
+### Internship
+- 프리너 모바일개발 (2022/09 ~ 2022/12)
+
 ### Programming
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
