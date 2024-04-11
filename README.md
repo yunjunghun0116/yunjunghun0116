@@ -29,9 +29,9 @@
 - **개요:** '뭐해먹지?' 고민은 이제 그만! 자취생을 위한 30분 내외, 간단한 재료들로 구성된 레시피를 볼 수 있으면 좋겠다고 생각했습니다. 그리고 자신이 한 요리를 사진으로 남겨두는 SNS, 비슷한 요리에 관심있는 사람끼리 모일 수 있는 커뮤니티를 통해 자취생들이 요리하는 문화가 발달했으면 좋겠습니다.
 - **결과:** https://www.youtube.com/watch?v=a9uKvke8tb0
 - **참고:** https://github.com/JideGuru/FlutterFoodybite
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjunghun0116&layout=compact)
 
 ### Algorithm
 Github : https://github.com/yunjunghun0116/algorithm
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjunghun0116&layout=compact)
 
