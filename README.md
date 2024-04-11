@@ -29,9 +29,6 @@
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjunghun0116&layout=compact)
 
-### Blog
-Tistory : https://junghun-developer.tistory.com
-
 ### Algorithm
 Github : https://github.com/yunjunghun0116/algorithm
 
