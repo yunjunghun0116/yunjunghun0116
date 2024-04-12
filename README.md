@@ -1,6 +1,4 @@
-# Welcome to My github!👋
-
-## 🚀 YunJungHun
+## 🚀 Hello, My Name is YunJungHun👋
 
 ### Education
 - 충남대학교 컴퓨터공학과 (2018/02 ~ 2025/02)
