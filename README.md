@@ -32,6 +32,7 @@
 
 ### Algorithm
 #### https://github.com/yunjunghun0116/algorithm
+[![코드트리|실력진단-yun8831](https://banner.codetree.ai/v1/banner/yun8831)](https://www.codetree.ai/profiles/yun8831)
 
 ### Notion
 #### https://junghun2.notion.site/4c07216e12394f28848a5a3d699182fb?pvs=4
