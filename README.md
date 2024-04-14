@@ -31,7 +31,8 @@
 - **참고:** https://github.com/JideGuru/FlutterFoodybite
 
 ### Algorithm
-#### https://github.com/yunjunghun0116/algorithm
+#### [프로그래머스](https://github.com/yunjunghun0116/algorithm)
+#### [코드트리](https://github.com/yunjunghun0116/codetree-TILs/tree/main)
 [![코드트리|실력진단-yun8831](https://banner.codetree.ai/v1/banner/yun8831)](https://www.codetree.ai/profiles/yun8831)
 
 ### Notion
