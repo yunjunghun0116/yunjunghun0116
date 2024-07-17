@@ -36,7 +36,7 @@
 [![코드트리|실력진단-yun8831](https://banner.codetree.ai/v1/banner/yun8831)](https://www.codetree.ai/profiles/yun8831)
 
 ### Notion
-#### https://junghun2.notion.site/4c07216e12394f28848a5a3d699182fb?pvs=4
+#### [노션](https://junghun2.notion.site/bfb82e2a19e34500a1fef148252ad502?pvs=74)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjunghun0116&layout=compact)
 
