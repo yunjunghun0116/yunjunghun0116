@@ -41,34 +41,34 @@ CS 지식과 알고리즘, 개발 관련된 주제를 바탕으로 꾸준히 학
 - 비즈니스 로직 구현 담당
 - Flutter, Dart 사용
 
-### 프리랜서
-#### 중장비 배차 서비스 개발
+## 프리랜서
+### 중장비 배차 서비스 개발
 - 중장비 배차 기능을 구현하고 지속적으로 요구사항 반영하여 배차 플랫폼 개발
 - Flutter, Spring, MySQL 사용
 - 2023/09 ~ 2023/11
 
-#### 파충류 분양 중개 및 식사 기록 일지 서비스 개발
+### 파충류 분양 중개 및 식사 기록 일지 서비스 개발
 - 파충류 분양 중개하기 위한 커뮤니티 개발 및 식사 기록 일지 관련 기능 개발
 - Flutter, Firebase 사용
 - 2023/06 ~ 2023/07
 
-#### 상품 판매 중개 서비스 개발
+### 상품 판매 중개 서비스 개발
 - 상품 판매 중개하기 위한 플랫폼 개발
 - Flutter, Firebase 사용
 - 2023/02 ~ 2023/04
 
-### 교내 해커톤 및 대회
+## 교내 해커톤 및 대회
 - 2022 아이디어 해커톤(소프트웨어팩토리) - 우수상(3등)
 - 2021 Collathon(플랜아이) - 대상(1등)
 - 2021 WnC 대회(동아리-MOTION) - 우수상(3등)
 
-### 알고리즘
-#### [프로그래머스](https://github.com/yunjunghun0116/algorithm)
-#### [코드트리](https://github.com/yunjunghun0116/codetree-TILs/tree/main)
+## 알고리즘
+### [프로그래머스](https://github.com/yunjunghun0116/algorithm)
+### [코드트리](https://github.com/yunjunghun0116/codetree-TILs/tree/main)
 [![코드트리|실력진단-yun8831](https://banner.codetree.ai/v1/banner/yun8831)](https://www.codetree.ai/profiles/yun8831)
 
-### 블로그
-#### [노션](https://junghun2.notion.site/bfb82e2a19e34500a1fef148252ad502?pvs=74)
+## 블로그
+### [노션](https://junghun2.notion.site/bfb82e2a19e34500a1fef148252ad502?pvs=74)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjunghun0116&layout=compact)
 
