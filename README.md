@@ -8,7 +8,7 @@
 취미는 배드민턴, 헬스이며 가끔 만들어보고싶은게 생길때마다 만들어보고 있습니다.
 
 **[블로그](https://junghun2.notion.site/16a2f98801c9803b85dde7aa3c466e62?pvs=4)**
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunjunghun0116&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HELLO&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## 🛠️ 기술 스택
 
 ### 프레임워크 & 프로그래밍 언어
@@ -31,3 +31,6 @@
 ## 🚀 최근 활동
 [![Junghun's github stats](https://github-readme-stats.vercel.app/api?username=yunjunghun0116&show_icons=true&theme=synthwave)](https://github.com/yunjunghun0116/yunjunghun0116)
 [![코드트리|실력진단-yun8831](https://banner.codetree.ai/v1/banner/yun8831)](https://www.codetree.ai/profiles/yun8831)
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunjunghun0116&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HELLO&edge_flat=false)
+
