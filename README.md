@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20Junghun's%20Github&fontSize=32)
 
 ## 📌 자기소개
-배울 것이 많고, 계속 배우며 성장하고 있는 1년차 주니어 개발자, 윤정훈입니다.<br/>
-현재 kotlin을 공부하고 있으며, 현업에서는 Java/Spring 환경에서 개발을 하고 있습니다.<br/>
-또한 개인 프로젝트에서는 Flutter와 Spring을 사용하여 서비스를 제공하기 위해 노력하고 있습니다.<br/>
+배울 것이 많고, 계속 배우며 성장하고 있는 주니어 개발자, 윤정훈입니다.<br/>
+현재 Java/Spring 환경에서 개발 및 프로젝트를 진행하고 있습니다.<br/>
+또한 Flutter와 Spring을 사용하여 다양한 고객들에게 필요한 서비스를 제공하기 위해 활동하고 있습니다.<br/>
 <br/>
-취미는 배드민턴, 헬스이며 가끔 만들어보고싶은게 생길때마다 개발도 하고 있습니다.
+취미는 배드민턴, 헬스이며 만들어보고싶은게 생길때마다 개발도 하고 있습니다.
 
 ## 🛠️ 기술 스택
 
