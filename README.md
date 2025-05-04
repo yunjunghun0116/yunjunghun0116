@@ -28,7 +28,4 @@
 
 ## 🚀 최근 활동
 [![Junghun's github stats](https://github-readme-stats.vercel.app/api?username=yunjunghun0116&show_icons=true&theme=synthwave)](https://github.com/yunjunghun0116/yunjunghun0116)
-[![코드트리|실력진단-yun8831](https://banner.codetree.ai/v1/banner/yun8831)](https://www.codetree.ai/profiles/yun8831)
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunjunghun0116&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HELLO&edge_flat=false)
 
