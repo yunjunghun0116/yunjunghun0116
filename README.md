@@ -25,5 +25,10 @@ Flutter와 Spring을 사용하여 다양한 고객들에게 필요한 서비스�
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ## 🚀 최근 활동
+- **알고리즘 풀이 모음:**  
+  [Github - 알고리즘](https://github.com/yunjunghun0116/algorithm)
+- **수상 실적 및 추가 정보:**  
+  [Notion - 수상/대회/프로젝트 상세](https://www.notion.so/junghun2/16a2f98801c9803b85dde7aa3c466e62)
+  
 [![Junghun's github stats](https://github-readme-stats.vercel.app/api?username=yunjunghun0116&show_icons=true&theme=synthwave)](https://github.com/yunjunghun0116/yunjunghun0116)
 
